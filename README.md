@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-
+![Web Design](https://butler.bootcampcontent.com/butler-university/BUT-IND-DATA-PT-11-2019-U-C/raw/master/11-Web/Homework/Instructions/Images/landingResize.png)
 
 ### Before You Begin
 
